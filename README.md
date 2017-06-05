@@ -1,1 +1,2 @@
 # Chicago-Crime-Data-Analysis
+ The dataset was taken from www.data.gov. The dataset had several fields that involved details about the crime and information on police who booked the offender. We implemented all the use cases from the Linux shell on the virtual machine and then implemented them in Python using PyMongo. For efficiency and robustness, I used replication and sharding on my MongoDB cluster which was launched on both AWS and the local machine. For all the other information and instructions on how to set up cluster, refer to the report.
